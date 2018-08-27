@@ -1,3 +1,4 @@
-# hello-wolrd
+# hello-world
 Iniciando com github
-Testanso os conceitos basicos.
+Testando os conceitos basicos.
+Alteração de dados
